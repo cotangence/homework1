@@ -26,6 +26,12 @@ docker pull qvizz/custom-nginx:1.0.0
 ![2](https://github.com/cotangence/homework1/assets/160312212/77f2334c-164d-41f0-a6ac-facdfba0f1b2)
 
 
+Задача5
+
+![1](https://github.com/cotangence/homework1/assets/160312212/43eade82-5490-40dd-bf9d-cb36f4a86a2e)
+![2](https://github.com/cotangence/homework1/assets/160312212/8f6b114b-4d22-4cd3-b41f-a3c953363477)
+![3](https://github.com/cotangence/homework1/assets/160312212/a658a4a7-e8a6-4116-9812-ecedeb35f233)
+![4](https://github.com/cotangence/homework1/assets/160312212/d43eccac-d49d-44dc-a070-fb658422e7e9)
 
 
 
