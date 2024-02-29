@@ -18,3 +18,14 @@ docker pull qvizz/custom-nginx:1.0.0
 П 3)Контейнер закрылся т.к. мы зашли в него и завершили выполнение.
 
 П 10) Мы изменили порт nginx внутри контейнера с 80 на 81  соответственно проброс порта с контейнера на хост не соответствует действительности 
+
+
+Задача 4
+
+![1](https://github.com/cotangence/homework1/assets/160312212/76ac257d-a057-4854-aec8-a4751d87cb8a)
+![2](https://github.com/cotangence/homework1/assets/160312212/77f2334c-164d-41f0-a6ac-facdfba0f1b2)
+
+
+
+
+
